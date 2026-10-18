@@ -32,6 +32,7 @@ For the CIFAR-10 experiments, a GPU accelerator is recommended because training 
 ## Dataset
 
 [CIFAR-10 dataset](https://drive.google.com/file/d/1AySprnuH21xDquyIBLnzaaIhYt07F8OK/view?usp=sharing)
+
 [MNIST dataset](https://drive.google.com/file/d/1TaRIg5zXSTisSU7ukpOMRdKxn-HLXttb/view?usp=drive_link)
 ## Outputs
 
