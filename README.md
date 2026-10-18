@@ -29,6 +29,10 @@ The notebooks use Python and libraries including **PyTorch**, **NumPy**, **Matpl
 
 For the CIFAR-10 experiments, a GPU accelerator is recommended because training can be computationally intensive for more epochs.
 
+## Dataset
+
+[CIFAR-10 dataset](https://drive.google.com/file/d/1AySprnuH21xDquyIBLnzaaIhYt07F8OK/view?usp=sharing)
+[MNIST dataset](https://drive.google.com/file/d/1TaRIg5zXSTisSU7ukpOMRdKxn-HLXttb/view?usp=drive_link)
 ## Outputs
 
 The notebooks generate model checkpoints, training curves, reconstruction visualisations, generated image samples, and evaluation metrics such as accuracy, PSNR, and FID where applicable.
